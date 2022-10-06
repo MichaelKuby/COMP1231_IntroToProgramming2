@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cube
+comment0.text=\n\ Cube.java\ \ \ \ \ \ Represents\ a\ cube,\ derived\ from\ Shape3D.java\n\n\ @author\ Michael\ Kuby\n\ @version\ 1.0\n
+comment1.params=sideLength
+comment1.target=Cube(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cube\n
+comment2.params=
+comment2.target=double\ getSideLen()
+comment2.text=\n\ Get\ side\ length\ of\ the\ cube\n
+comment3.params=sideLength
+comment3.target=void\ setSideLen(double)
+comment3.text=\n\ Set\ side\ length\ of\ the\ cube\n
+comment4.params=
+comment4.target=double\ getVolume()
+comment4.text=\n\ Get\ volume\ of\ a\ cube.\ Volume\ of\ a\ cube\ is\ V\ \=\ sideLength^3\n
+comment5.params=
+comment5.target=double\ getSurfaceArea()
+comment5.text=\n\ Get\ surface\ area\ of\ a\ cube.\ Surface\ area\ of\ a\ cube\ is\ SA\ \=\ sideLength^2\ *\ 6\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ To\ string\ method\ displaying\ info\ regarding\ the\ shape.\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ParadeDriver
+comment0.text=\n\ Builds\ a\ Parade\ of\ various\ Clown's,\ and\ exercises\ some\ of\ the\ methods\ of\ the\ ArrayList\ class.\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct.\ 28,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

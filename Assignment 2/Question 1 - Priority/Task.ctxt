@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Task
+comment0.text=\n\ Task.java\n\ \n\ Represents\ a\ task\ on\ a\ to-do\ list.\n\n\ @author\ Michael\ Kuby\n\ @version\ 1.0\n
+comment1.params=description\ priority
+comment1.target=Task(java.lang.String,\ int)
+comment2.params=task
+comment2.target=void\ setTask(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTask()
+comment4.params=priority
+comment4.target=void\ setPriority(int)
+comment5.params=
+comment5.target=int\ getPriority()
+comment6.params=obj
+comment6.target=int\ compareTo(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

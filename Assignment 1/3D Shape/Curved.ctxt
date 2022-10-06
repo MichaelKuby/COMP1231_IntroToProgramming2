@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Curved
+comment0.text=\n\ Curved.java\ \ \ \ \ \ \ \ \ \ Defined\ by\ the\ fact\ that\ they\ have\ a\ radius.\n\n\ A\ subclass\ of\ generic\ 3\ dimensional\ shapes\ are\ curved\ shapes\ with\ circular\ elements,\ such\ as\ spheres,\ cylinder's,\ cones,\ etc.\n\ A\ common\ trait\ amongst\ these\ shapes\ are\ the\ fact\ that\ they\ have\ a\ radius.\ The\ Curved\ class\ is\ an\ abstract\ subclass\ with\ superclass\ \n\ Shape3D,\ designed\ with\ the\ intent\ of\ being\ the\ parents\ to\ more\ specific\ subclasses.\n\n\ @author\ Michael\ Kuby\n\ @version\ 1.0\n
+comment1.params=category\ radius
+comment1.target=Curved(java.lang.String,\ double)
+comment2.params=radius
+comment2.target=void\ setRadius(double)
+comment2.text=\ \n\ Set\ radius\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=\ \n\ Get\ radius\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ To\ string\ method\ displaying\ info\ regarding\ the\ shape.\n
+numComments=5

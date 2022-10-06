@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Clown
+comment0.text=\n\ Represents\ a\ Clown\ in\ a\ Parade.\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct\ 28,\ 2021\n
+comment1.params=name
+comment1.target=Clown(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Clown\n
+comment2.params=c
+comment2.target=boolean\ equals(Clown)
+comment2.text=\n\ Compares\ the\ contents\ of\ this\ Clown\ with\ another.\n\ \n\ @param\ \ \ \ \ \ \ Clown\ \ \ Clown\ to\ be\ compared\n\ @return\ \ \ \ \ \ boolean\ Returns\ true\ if\ the\ contents\ of\ both\ objects\ are\ equal.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Get's\ the\ name\ of\ the\ Clown\ object\n\n\ @return\ \ \ \ the\ name\ of\ the\ Clown\n
+numComments=4

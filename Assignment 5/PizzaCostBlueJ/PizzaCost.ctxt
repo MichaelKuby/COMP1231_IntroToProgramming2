@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PizzaCost
+comment0.text=\n\ PizzaCost.java\ \ \ \ \ \ \ COMP\ 1231\ Assignment\ 5\:\ GUI's\n\ \n\ Allows\ the\ user\ to\ pick\ a\ set\ of\ toppings\ using\ a\ set\ of\ check\ boxes.\n\ Assumes\ each\ topping\ cost\ 50\ cents,\ and\ a\ plain\ pizza\ costs\ $10.\n\ Displays\ the\ cost\ of\ the\ pizza;\ when\ a\ topping\ is\ checked\ or\ unchecked,\n\ the\ cost\ of\ the\ pizza\ updates\ automatically.\n\ \n\ @author\ MichaelKuby\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ processCheckBoxAction(javafx.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

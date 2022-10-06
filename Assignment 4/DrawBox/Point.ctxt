@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\n\ Represents\ a\ pair\ of\ generic\ objects\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct.\ 29,\ 2021\n
+comment1.params=x\ y
+comment1.target=Point(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Point\n
+comment2.params=x
+comment2.target=void\ setX(java.lang.Object)
+comment2.text=\n\ Sets\ the\ object\ reference\ variable\ X\ to\ the\ passed\ parameter\ object\n\ \n\ @param\ \ \ T\ \ \ object\ to\ be\ assigned\ to\ the\ X\ coordinate\n
+comment3.params=y
+comment3.target=void\ setY(java.lang.Object)
+comment3.text=\n\ Sets\ the\ object\ reference\ variable\ Y\ to\ the\ passed\ parameter\ object\n\ \n\ @param\ \ \ S\ \ \ object\ to\ be\ assigned\ to\ the\ Y\ coordinate\n
+comment4.params=
+comment4.target=java.lang.Object\ getX()
+comment4.text=\n\ Get\ the\ generic\ object\ assigned\ to\ x\n\ \n\ @return\ \ T\ \ \ the\ object\ assigned\ to\ the\ x\ variable\n
+comment5.params=
+comment5.target=java.lang.Object\ getY()
+comment5.text=\n\ Get\ the\ generic\ object\ assigned\ to\ y\n\ \n\ @return\ \ S\ \ \ the\ object\ assigned\ to\ the\ y\ variable\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ representation\ of\ the\ point\n\n\ @return\ \ String\ \ A\ string\ representation\ of\ the\ point\ object\n
+numComments=7

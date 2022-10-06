@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sphere
+comment0.text=\n\ Sphere.java\ \ \ \ \ \ Represents\ a\ sphere\ and\ derived\ from\ Curved.java\n\n\ @author\ Michael\ Kuby\n\ @version\ 1.0\n
+comment1.params=radius
+comment1.target=Sphere(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Sphere\n
+comment2.params=
+comment2.target=double\ getVolume()
+comment2.text=\n\ Get\ volume\ of\ a\ sphere.\ Volume\ of\ a\ sphere\ is\ calculated\ 4/3\ *\ pi\ *\ r^3\n
+comment3.params=
+comment3.target=double\ getSurfaceArea()
+comment3.text=\n\ Get\ surface\ area\ of\ a\ sphere.\ Surface\ area\ of\ a\ sphere\ is\ calculated\ A\ \=\ 4\ *\ pi\ *\ r^2\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ To\ string\ method\ displaying\ info\ regarding\ the\ shape.\n
+numComments=5

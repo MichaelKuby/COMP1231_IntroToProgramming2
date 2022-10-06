@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Priority
+comment0.text=\n\ Priority.java\n\ \n\ Define's\ a\ way\ to\ establish\ priority\ among\ a\ set\ of\ objects\n\n\ @author\ Michael\ Kuby\n\ @version\ 1.0\n
+comment1.params=val
+comment1.target=void\ setPriority(int)
+comment2.params=
+comment2.target=int\ getPriority()
+numComments=3

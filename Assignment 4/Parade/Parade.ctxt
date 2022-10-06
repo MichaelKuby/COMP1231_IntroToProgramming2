@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Parade
+comment0.text=\n\ Parade.java\ \ \ \ \ \ A\ collection\ of\ Clown\ objects\ that\ represents\ a\ Parade\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct.\ 28,\ 2021\n
+comment1.params=c
+comment1.target=Parade(Clown[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Parade\n\ \n\ @param\ \ \ ...\ c\ \ \ variable\ length\ list\ of\ clown\ objects\n
+comment2.params=c
+comment2.target=void\ add(Clown)
+comment2.text=\n\ Adds\ a\ member\ to\ the\ back\ of\ the\ parade\n\ \n\ @param\ \ \ Clown\ \ \ A\ clown\ object\n\ @return\ \ void\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\n\ Removes\ the\ member\ at\ the\ front\ of\ the\ parade.\ Catches\ IndexOutOfBoundsException\ situations\ where\n\ a\ clown\ is\ attempted\ to\ be\ removed\ from\ an\ empty\ parade.\n\ \n\ @return\ \ void\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Gets\ the\ size\ of\ the\ parade\n\ \n\ @return\ \ int\ size\ of\ parade\n
+comment5.params=c
+comment5.target=boolean\ isFront(Clown)
+comment5.text=\n\ Checks\ to\ see\ if\ a\ clown\ is\ at\ the\ front\ of\ the\ parade.\ Catches\ IndexOutOfBoundsException\ situations\ caused\n\ by\ the\ parade\ being\ empty.\n\n\ @param\ \ \ \ \ \ \ Clown\ \ \ \ \ \ \ A\ clown\ to\ be\ checked\ for\n\ @return\ \ \ \ \ \ boolean\ \ \ \ \ Returns\ true\ if\ the\ clown\ is\ at\ the\ front\n
+comment6.params=name
+comment6.target=boolean\ isFront(java.lang.String)
+comment6.text=\n\ Check\ to\ see\ if\ a\ clown\ is\ at\ the\ front\ of\ the\ parade.\ Catches\ IndexOutOfBoundsException\ situations\ caused\n\ by\ the\ parade\ being\ empty.\n\ \n\ Note\:\ I\ added\ this\ method\ out\ of\ my\ own\ interest\ so\ that\ user\ input\ could\ search\ for\n\ who\ is\ at\ the\ front\ of\ the\ parade.\n\ \n\ @param\ \ \ \ \ \ \ String\ \ \ \ \ \ The\ name\ of\ the\ clown\ to\ be\ checked\ for\n\ @return\ \ \ \ \ \ boolean\ \ \ \ \ Returns\ true\ if\ the\ clown\ is\ at\ the\ front\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Prints\ out\ each\ member\ of\ the\ parade\n\ \n\ @return\ \ String\ \ A\ list\ of\ the\ members\ of\ the\ parade\n
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\n\ Box.java\ \ \ \ \ A\ generic\ class\ that\ simulates\ drawing\ an\ item\ at\ random\ out\ of\ a\ box.\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct.\ 29,\ 2021\n
+comment1.params=obj
+comment1.target=Box(java.lang.Object[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Box\n
+comment2.params=obj
+comment2.target=void\ add(java.lang.Object)
+comment2.text=\n\ Add\ an\ object\ of\ the\ specified\ type\ to\ the\ box\n\n\ @param\ \ \ T\ \ \ object\ to\ be\ added\n\ @return\ \ void\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\n\ Check\ to\ see\ if\ the\ box\ is\ empty\n\ \n\ @return\ \ \ boolean\ returns\ true\ if\ the\ box\ is\ empty,\ false\ otherwise.\n
+comment4.params=
+comment4.target=java.lang.Object\ drawItem()
+comment4.text=\n\ Randomly\ select\ an\ object\ from\ the\ box\ and\ return\ it.\n\ Eliminates\ the\ drawn\ item\ from\ the\ box.\n\ \n\ @return\ \ T\ \ \ Returns\ a\ random\ object\ from\ the\ box;\ null\ if\ the\ box\ is\ empty\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Outputs\ the\ currect\ contents\ of\ the\ box\n\ \n\ @return\ \ \ String\ \ A\ string\ displaying\ the\ current\ contents\ of\ the\ box\n
+numComments=6

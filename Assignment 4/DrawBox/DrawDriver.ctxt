@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DrawDriver
+comment0.text=\n\ DrawDriver.java\ \ \ \ \ \ \n\ \n\ Uses\ the\ Box\ class\ to\ represent\ two\ boxes\:\ one\ holds\ the\ names\ of\ five\ people,\ the\ other\ the\ numbers\ 1-5,\n\ representing\ seats\ at\ a\ table.\ Draws\ from\ each\ box\ to\ determine\ which\ seat\ a\ person\ will\ occupy.\n\n\ @author\ Michael\ Kuby\n\ @version\ Oct.\ 29,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
